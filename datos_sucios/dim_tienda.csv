@@ -1,0 +1,21 @@
+tienda_id,nombre,ciudad,region,fecha_apertura,m2
+1,Super Madrid 1,Madrid,Santa Cruz de Tenerife,2007-01-02,756
+2,Super Barcelona 2,Barcelona,Valencia,2009-12-13,402
+3,Super Valencia 3,Valencia,Ceuta,2007-07-07,1426
+4,Super Sevilla 4,Sevilla,Badajoz,2017-03-06,1303
+5,Super Zaragoza 5,Zaragoza,Murcia,2006-07-26,1214
+6,Super Malaga 6,Malaga,Las Palmas,2005-07-28,871
+7,Super Murcia 7,Murcia,Ávila,2008-12-08,719
+8,Super Bilbao 8,Bilbao,Málaga,2015-11-02,656
+9,Super Alicante 9,Alicante,Navarra,2008-07-30,2028
+10,Super Cordoba 10,Cordoba,Segovia,2017-08-15,430
+11,Super Valladolid 11,Valladolid,La Rioja,2008-12-19,422
+12,Super Vigo 12,Vigo,Palencia,2010-01-03,683
+13,Super Gijon 13,Gijon,Álava,2018-08-28,1195
+14,Super Granada 14,Granada,Cáceres,2017-07-25,1252
+15,Super Vitoria 15,Vitoria,Guipúzcoa,2010-01-01,2369
+16,Super La Coruna 16,La Coruna,Castellón,2022-03-24,408
+17,Super Elche 17,Elche,Guipúzcoa,2006-11-03,1114
+18,Super Oviedo 18,Oviedo,Jaén,2006-09-28,2018
+19,Super Badajoz 19,Badajoz,Huelva,2015-11-13,1202
+20,Super Cartagena 20,Cartagena,Zaragoza,2005-10-13,2139

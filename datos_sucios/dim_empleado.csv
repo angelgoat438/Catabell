@@ -1,0 +1,201 @@
+empleado_id,nombre,apellido,tienda_id,puesto,fecha_contratacion,salario
+1,Guiomar,Plana,18,Seguridad,2020-06-08,1884.3
+2,Jose Francisco,Coloma,1,Cajero,2022-03-20,1320.39
+3,Adelardo,Campillo,5,PANADERO,2023-07-24,1257.65
+4,Isidoro,Echeverría,12,PANADERO,2023/11/05,2084.04
+5,Josefa,Villaverde,14,Reponedor,2020/02/10,1266.93
+6,Cecilia,Ibañez,12,Cajero,2025-02-02,2638.28
+7,Domingo,Sastre,7,SEGURIDAD,19-06-2016,1599.25
+8,Abril,Molins,4,Encargado,2025-06-13,2448.19
+9,Tatiana,Salas,14,Panadero,2021-09-27,2399.16
+10,Loida,Vargas,8,Reponedor,2019-09-11,2761.93
+11,Victoria,Salmerón,6, Carnicero ,2024-11-13,1239.66
+12,Mar,Taboada,11,Carnicero,2019-12-13,2483.58
+13,Maricruz,Huertas,8,ENCARGADO,27-03-2024,1454.72
+14,Leonel,Vázquez,4,Carnice ro,2020-04-30,2595.47
+15,Jorge,Llobet,16,reponedor,2019/11/02,1519.32
+16,Leyre,Macias,15,Encargado,2017-07-30,1688.31
+17,Nico,Montenegro,8,Reponedor,2024-10-27,1237.86
+18,Cecilio,Chacón,7,Carnicero,2016-08-28,1725.22
+19,Rodolfo,Corominas,3,Encargado,2022-10-08,1761.83
+20,Bernardo,Ribera,17,Carnicero,2019-06-26,2287.23
+21,Candela,Solano,18,Encargado,2019-07-29,2702.78
+22,Hilario,Rivera,4,Encargado,2019-04-14,1485.71
+23,María Luisa,Aller,9,Cajero,2024-06-03,1373.44
+24,María Del Carmen,Pintor,14,ENCARGADO,2020-03-31,2365.67
+25,Pastor,Martín,11,Carnicero,2023-04-15,2169.93
+26,Reyna,Rius,17,Caje ro,2020/12/02,1816.31
+27,Macaria,Giménez,19,Reponedor,2020-05-15,1607.56
+28,Leandro,Ruano,14,Cajero,2020-05-04,2031.87
+29,Roque,Navarrete,18,Seguridad,2022-05-10,2351.09
+30,Nazaret,Quiroga,7,encargado,2022-12-19,1890.08
+31,Priscila,Solsona,11,Panadero,2025-02-10,1702.27
+32,Esther,Amores,4,Seguridad,2024-12-22,2640.07
+33,Dora,Amores,17,Encargado,2015-12-04,2267.03
+34,Tiburcio,Cerdá,11,Carnicero,2024-07-14,2315.53
+35,Germán,Ayllón,18,Reponedor,11/11/2017,
+36,Nacio,Galán,13,SEGURIDAD,2020-01-01,2397.02
+37,Nicolás,Pinilla,6,Panadero,2018-01-22,2110.57
+38,Paz,Robles,13,Panadero,2017-10-10,2533.96
+39,Ceferino,Sosa,10,Encargado,2015/03/19,1536.29
+40,Calista,Azorin,19,Panadero,2025-12-30,2247.53
+41,Pancho,Gomez,15,Carnicero,2022/02/24,
+42,Mercedes,Arjona,7,Panadero,18/04/2023,1957.1
+43,Jose Miguel,Flores,6,Seguridad,2024-03-25,1335.67
+44,Ester,Corominas,17,Seguridad,2017-08-16,2212.71
+45,Ainara,Carbó,11,Caje ro,2021-03-15,2509.48
+46,Isaías,Sola,8, Seguridad ,2022-09-10,1696.67
+47,María Fernanda,Peinado,7,Reponedor,2016/11/05,1239.08
+48,Elvira,Carbó,8,Carnicero,2023/07/22,2178.04
+49,Fernando,Merino,3,carnicero,2016-03-10,1863.11
+50,Amancio,Mesa,19,Reponedor,2021-05-01,2349.35
+51,Vilma,Perez,13,Carnicero,2019-05-13,1839.44
+52,Ligia,Fiol,5,Seguridad,02-11-2015,2300.2
+53,Jessica,Herrero,4,Carnicero,2016-02-14,1550.15
+54,María Teresa,Mata,17,Carnicero,2024-05-08,1280.35
+55,Eli,Carrillo,8,CAJERO,2023-10-04,1930.34
+56,Clarisa,Armengol,15,Seguridad,2018-10-26,2049.81
+57,Tiburcio,Pellicer,18,Panadero,2015-10-04,1707.68
+58,Flora,Nogueira,15,Panadero,2015-02-20,2504.01
+59,Sosimo,Trillo,17,Carnicero,28-02-2016,
+60,Porfirio,Segura,18,Carnicero,2022-10-12,2635.53
+61,Trinidad,Echeverría,16,Carnicero,2023-01-26,1614.71
+62,Florina,León,8,Seguridad,2021-10-10,1643.7
+63,Zaira,Tomás,17,Carnicero,2020-02-11,2202.8
+64,Paola,Ledesma,9,Carnicero,2018-07-18,1323.97
+65,Jose Luis,Bolaños,10,Reponedor,25/01/2018,1634.74
+66,Virgilio,Hervás,11,Panade ro,2023-04-03,1328.92
+67,Clotilde,Pinilla,5,Reponedor,2018-09-13,1812.86
+68,Ana Belén,Morcillo,5,Seguridad,31-12-2016,1542.32
+69,Ibán,Pacheco,14,Carnicero,2023-10-10,1729.41
+70,Noé,Losa,15,Carnicero,2024-09-06,1299.63
+71,Judith,Llorente,14,Carnicero,2021/02/10,2647.74
+72,Asunción,Feijoo,19,Seguridad,2015-12-10,1231.25
+73,Lola,Ramos,19,Carnicero,16-05-2020,1963.17
+74,Marta,Hernandez,12,Encargado,2022-08-06,2405.56
+75,Flavia,Tudela,14,Panadero,2019-12-06,2396.03
+76,Ale,Buendía,18,Panadero,2018-03-27,2636.5
+77,Sandalio,Hervia,16,Reponedor,2018-05-15,1636.7
+78,Cándida,Peinado,16,Cajero,2020-03-16,1822.17
+79,Bernarda,Núñez,13,Seguridad,2019-09-06,1464.07
+80,Marcia,Muro,15,Reponedor,2018-11-14,2769.16
+81,Wilfredo,Lillo,18,Cajero,2018-05-16,2651.09
+82,Jerónimo,Carrillo,19,Panadero,2022-12-07,2260.8
+83,Maximiano,Carreras,3,Seguridad,04/03/2023,1885.78
+84,María Belén,Esteve,15,Reponedor,08/02/2017,1280.46
+85,Mamen,Tomé,13,Encargado,2018-01-15,1538.66
+86,Dolores,Zamorano,11,ENCARGADO,2021-07-25,2417.97
+87,Cornelio,Ferrera,13,Encargado,05/04/2018,2403.22
+88,Poncio,Escobar,14,Encargado,2018-04-29,2535.86
+89,Leandra,Castañeda,16,Cajero,2018-01-06,2398.44
+90,Baltasar,Manzano,2,Encargado,2022-09-02,1558.76
+91,Edmundo,Tudela,3,Seguridad,2016-02-17,1264.41
+92,Albano,Luís,1,Reponedor,2020-02-29,1518.98
+93,Valero,Niño,1,Panade ro,2017-01-10,1443.81
+94,Aurelio,Iriarte,5,Carnicero,2025-05-08,2271.13
+95,Ale,Carbonell,19,Reponedor,2024-01-16,1944.05
+96,Salvador,Téllez,9,Encargado,25/10/2015,1468.46
+97,Eva,Baeza,20,Seguridad,2016-09-01,2349.37
+98,Obdulia,Mateu,6,Encargado,2015-12-09,1372.96
+99,Jose Ramón,Carrasco,1,Encargado,2021-02-19,2121.27
+100,Sigfrido,Gonzalez,13,Carnicero,2023-07-13,2706.35
+101,Ricardo,Sanjuan,7,Cajero,28/12/2024,2147.36
+102,Manuel,Romeu,8,Cajero,11-05-2018,2315.51
+103,Estela,Barrena,10,Seguridad,2021-09-14,
+104,Manola,Cabezas,4,Panadero,2025-06-03,2452.22
+105,Hipólito,Galván,12,Panadero,2017-11-29,1885.4
+106,Ceferino,Crespo,12,Cajero,2017-08-21,2009.54
+107,Carmina,Benavides,11,Cajero,2016-09-20,2559.32
+108,Sebastian,Sanjuan,16,Cajero,2022-08-01,1893.64
+109,Adoración,Manuel,12,Seguridad,2015-05-12,2626.52
+110,Luis,Luna,15,Seguridad,2022-09-24,1444.79
+111,Wilfredo,Belda,6,Seguridad,2022-07-24,2034.79
+112,Ámbar,Lamas,9,Panadero,2023-08-31,2493.12
+113,Eufemia,Figuerola,18, Carnicero ,2019-09-04,1943.8
+114,Candelas,Gomila,19,ENCARGADO,2022-02-14,1715.69
+115,Violeta,Larrañaga,8,Cajero,2024-02-03,1646.29
+116,Calixto,Barreda,15,reponedor,2016-10-28,2400.76
+117,Marino,Malo,19,Panadero,2019-10-31,2269.1
+118,Adelina,Mateu,11,Cajero,2022-09-11,1990.89
+119,Lalo,Vall,11,Reponedor,2020-12-09,1980.08
+120,Urbano,Bernat,12,Encargado,2021-07-30,1744.54
+121,Tamara,Rosales,20,Seguridad,2023-01-29,2608.17
+122,Elisabet,Ibáñez,18,Cajero,2015-04-14,2026.6
+123,Jenaro,Almansa,7,CAJERO,29-12-2025,1586.17
+124,Hortensia,Leon,14,Carnicero,2021-05-03,2088.28
+125,María Carmen,Díez,8,Seguridad,2020-03-05,1961.75
+126,Florinda,Salamanca,16,Carnicero,2025-01-27,2468.69
+127,Gerardo,Ruano,3,ENCARGADO,2021-12-24,1554.55
+128,Amparo,Bou,8,Encargado,2020-03-03,2262.34
+129,Sebastian,Mínguez,12,Carnicero,13-07-2018,2085.56
+130,Cruz,Cuevas,12,Carnicero,2018-08-17,2794.61
+131,Joaquina,Valbuena,18,Encargado,2018-03-03,1762.9
+132,Salvador,Arco,15,Encargado,2020-01-02,1690.6
+133,Maxi,Iniesta,8,Cajero,2018-07-22,2354.05
+134,María Teresa,Quintero,11,Cajero,2024-07-06,2388.61
+135,Paloma,Abella,6,reponedor,2022-03-26,1546.22
+136,Candela,Sevilla,16,Encargado,2019-07-19,2359.34
+137,Godofredo,Villegas,17,Panadero,2018-12-24,1652.8
+138,Maristela,Valentín,4,Reponedor,2021-11-17,1673.99
+139,Martirio,Aznar,12,Reponedor,2017-03-28,1683.63
+140,Carmela,Castro,18,Reponedor,2025/03/15,1638.9
+141,Urbano,Tormo,2,Panadero,2016-05-02,1667.42
+142,Eva María,Heras,5,Seguridad,2022-10-22,2589.54
+143,María,Alcalá,16,Cajero,2021-01-27,2596.35
+144,Ciro,Gomila,19,Encargado,2025/11/29,1951.04
+145,Ximena,Carballo,15,Encargado,2020-01-28,1494.98
+146,Desiderio,Correa,2,Encargado,2020/06/24,2705.7
+147,Lilia,Manzanares,16,Cajero,2020-08-06,2515.39
+148,Leandro,Ribes,13,Carnicero,2024-03-07,1318.53
+149,Agustina,Hervás,2,Reponedor,2020-01-09,1438.72
+150,Espiridión,Pla,19,Encargado,2017-02-04,1336.29
+151,Elena,Verdejo,8,Cajero,2023-03-17,2092.92
+152,Elías,Baños,14,Panadero,2018-01-14,2153.8
+153,Montserrat,Ribera,20,Reponedor,2018-09-27,2441.11
+154,Mirta,Vera,13,Carnicero,2017-12-09,2653.61
+155,Abilio,Luna,10,Panadero,2022-12-26,2784.05
+156,Pilar,Tovar,10,Panadero,2024-07-07,2193.64
+157,Victoriano,Tomé,20,Seguridad,2018-10-18,1358.77
+158,Carmina,Pi,7,Seguridad,2020-01-04,1537.64
+159,Modesto,Fabregat,3,Reponedor,14/10/2025,1583.78
+160,Jorge,Piñol,18,Cajero,27/07/2017,1450.45
+161,Maura,Reig,14,Carnicero,2015-06-25,2302.99
+162,Marcela,Suárez,16,Encargado,2022/10/03,1252.22
+163,Obdulia,Piquer,10,Seguridad,2019-03-31,1652.35
+164,Gracia,Cornejo,15,Cajero,2020-06-12,2299.82
+165,Angelino,Cases,9,Seguridad,2020-07-10,2143.66
+166,Dominga,Mármol,7,CARNICERO,2024-07-25,1383.64
+167,Sandra,Sacristán,8,Seguridad,2016-02-05,1438.38
+168,Visitación,Saura,9,Reponedor,2015-03-03,1314.26
+169,Ernesto,Redondo,6,Encargado,2024-07-30,2152.07
+170,Fabián,Benavides,19,Encargado,2020-02-29,1902.65
+171,Juan Manuel,Nevado,15,Seguridad,08/11/2021,1686.55
+172,Rómulo,Bernat,13,Encargado,2024-05-14,2000.76
+173,Reyes,Pinto,16,Carnicero,2025-06-29,1328.71
+174,Eugenia,Torrents,2,carnicero,2024/08/05,2375.25
+175,Andrés Felipe,Bayona,20,encargado,2017-08-01,1241.38
+176,Isaura,Madrigal,8,Seguridad,2025-12-20,2537.53
+177,Margarita,Botella,19,Panadero,2019-10-10,2721.26
+178,Clímaco,Cabrera,9,Panadero,2019-11-18,1264.37
+179,Joaquina,Marí,6,Carnicero,2024-12-08,2030.34
+180,Arturo,Morata,15,Encargado,04-10-2023,1490.38
+181,Lázaro,Palmer,19,Carnicero,2019-02-14,2215.66
+182,Esteban,Hidalgo,16,Cajero,2020-11-03,1952.02
+183,Clarisa,Escolano,14,Encargado,13-11-2016,1713.69
+184,Cayetano,Piñeiro,4,Reponedor,2021/10/25,1727.69
+185,Jose Angel,Valenciano,16,Encargado,2025-01-14,
+186,Eric,Guerra,13,Panadero,2020-01-27,1258.72
+187,José Manuel,Segura,3,Encargado,2017-10-22,1603.84
+188,Agapito,Sola,4,Carnicero,2024-11-29,2583.86
+189,Inés,Cruz,1,Seguridad,2015-10-24,2590.99
+190,Onofre,Martínez,15,Carnicero,2022-01-10,1286.73
+191,Teobaldo,Ibáñez,17,Encargado,2020/01/10,2196.21
+192,Marciano,Flor,16,Seguridad,2025-12-28,1907.27
+193,Reyna,Tomas,2,Reponedor,2016-03-04,1627.29
+194,Rico,Palomar,5,ENCARGADO,2021-04-28,1900.99
+195,Juana,Marquez,16,Cajero,2015-03-30,1246.19
+196,Paula,Priego,20,Reponedor,2018-01-07,2335.65
+197,Clarisa,Avilés,10,Panadero,05-01-2025,1221.88
+198,Marcia,Valdés,14,Cajero,2024/02/28,1559.52
+199,Vanesa,Macías,4,Carnicero,2023-07-14,
+200,Jeremías,Ortuño,5,CARNICERO,2017-05-29,2692.24
